@@ -2,3 +2,23 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+set the customer's location 
+set the destination's location 
+
+If customer's location is east of destination location
+customer moves west. 
+repeat until both location  are the same.
+
+If customer's location is west of destination location
+customer moves east.
+repeat until both locations are the same.
+
+If customer's location is north of the destination location
+Customer moves south.
+Repeat until both locations are the same. 
+
+If customer's location is south of the destination's location
+Customer moves north.
+Repeat until both locations are the same. 
+
+When customer's location and destination's location are the same in all 4 directions, print out, "You have found your item."

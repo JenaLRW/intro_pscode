@@ -2,3 +2,13 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+Computer set a random number between 1 and 10.
+User enters guess #1.
+	If guess #1 is incorrect, user guesses for #2.
+	If guess #1 is correct, print out, you guessed it!
+User enter guess #2
+	If guess #2 is incorrect, user guesses for #3.
+	If guess #3 is correct, print out, you guessed it!
+User enters guess #3.
+	If guess #3 is incorrect, print out, So close! Sorry! The number is (picked random number).
+	If guess #3 is correct, print out, Congratulations! The number is (picked random number).

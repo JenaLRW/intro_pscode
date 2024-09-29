@@ -2,3 +2,7 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+start counting at 2
+when user presses a button, the count goes up by 2.
+Print out, current count
+loop ends when the count gets to 50.  
